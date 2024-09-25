@@ -1,4 +1,4 @@
 # login-page
 this is my repository in Github.
 <br>
-auther - mahima tripathi
+auther - mahima tripathi(a)
